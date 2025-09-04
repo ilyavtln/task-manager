@@ -25,7 +25,8 @@
       "dom"
     ],
     "paths": {
-      "@pages/*": ["./app/pages/*"]
+      "@pages/*": ["./app/pages/*"],
+      "@masterpages/*": ["./app/masterpages/*"],
     }
   },
   "angularCompilerOptions": {
